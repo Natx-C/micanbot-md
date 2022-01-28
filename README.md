@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://api-xcoders.xyz/images/avatar.png" alt="YOGI" width="170" />
+<img src="https://api-xcoders.xyz/images/avatar.png" alt="VIKODK" width="170" />
 
 ## Multi Device
 </div>
@@ -9,8 +9,8 @@
 </p>
 
 # Settings
-* [`Get Apikeys`](https://api-xcoders.xyz/)
-
+* [`Get Apikeys FXC7`](https://api-xcoders.xyz/)
+* [`Get Apikeys VIKO-API`](https://viko-api.herokuapp.com/)
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
@@ -21,11 +21,23 @@
 
 ## For Termux
 ```
+> cd micanbot-md
 > termux-setup-storage
 > apt update && apt upgrade
 > pkg install nodejs
 > pkg install git
 > pkg install ffmpeg
+> npm i
+```
+## For UBUNTU / VPS
+```
+> cd micanbot-md
+> apt update && apt upgrade
+> pkg install nodejs
+> pkg install git
+> pkg install ffmpeg
+> npm i
+> node index / npm start
 ```
 
 
@@ -36,3 +48,4 @@
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`FarhanXC7`](https://github.com/Fxc7?tab=repositories)

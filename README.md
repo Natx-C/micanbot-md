@@ -29,6 +29,7 @@
 > pkg install git
 > pkg install ffmpeg
 > npm i
+> node index
 ```
 ## For UBUNTU / VPS
 ```

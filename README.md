@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/Author-Farhannn-red.svg?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/vikodk67"><img title="Author" src="https://img.shields.io/badge/Author-Farhannn-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/vikodk67"><img title="Author" src="https://img.shields.io/badge/Author-VIKO-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 # Settings
